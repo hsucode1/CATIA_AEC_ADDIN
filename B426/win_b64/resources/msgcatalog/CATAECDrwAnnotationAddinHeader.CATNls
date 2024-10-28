@@ -1,0 +1,6 @@
+
+
+CATAECDrwAnnotationAddinHeader.CATAECDRWRunHdr.Title     = "Generate Dimensions";
+CATAECDrwAnnotationAddinHeader.CATAECDRWRunHdr.Help      = "Generate Dimensions";
+CATAECDrwAnnotationAddinHeader.CATAECDRWRunHdr.ShortHelp = "This feature will automatically find all annotated features and annotate them in batches.";
+CATAECDrwAnnotationAddinHeader.CATAECDRWRunHdr.LongHelp  = "This feature will automatically find all annotated features and annotate them in batches.";

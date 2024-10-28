@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Styles xmlns:syp="http://www.3ds.com/xsd/SYP">
+
+  <!-- ************************************** -->
+  <!--   Commands Headers  -->
+  <!-- ************************************** -->
+
+  <Template syp:name="AECDraftingCommandHeaders" Target="CATAfrComponent">
+    <CATCAfrGroup>
+      <!-- <CATCommandHeader  ID="CATDRWPositionHdr" ClassName="CATDRWPositionCmd" SharedLibraryName="CATDRWPositionFeatureUI" ResourceFile="AECDraftingWkbAddinHeader"  Available="1"/> -->
+    </CATCAfrGroup>
+  </Template>
+
+  <!-- Define a Section -->
+  <Template syp:name="DrawingModelSectionToolbar" Target="CATAfrComponent">
+    <!-- Define a Toolbar with commands -->
+    <CATCmdContainer Name="DrawingModelTlb">
+      <!-- <CATCmdStarter Name="CATExtractBoundaryHdr" Command="CATExtractBoundaryHdr"/> -->
+    </CATCmdContainer>
+  </Template>
+
+  <!-- Define a Section -->
+  <Template syp:name="DrawingViewSectionToolbar" Target="CATAfrComponent">
+    <CATCmdContainer Name="DrawingViewSection">
+      <CATCmdStarter Name="CATDrwFromViewHdr" Command="CATDrwFromViewHdr"/>
+      <CATCmdStarter Name="CATDrwFromViewLayoutHdr" Command="CATDrwFromViewLayoutHdr"/>
+    </CATCmdContainer>
+  </Template>
+
+
+  <!-- Define a Section -->
+  <Template syp:name="PrdDRWSectionToolbar1" Target="CATAfrComponent">
+    <CATCmdContainer Name="PrdDRWSection">
+	    <CATCmdStarter Name="CATDRWExportHdr" Command="CATDRWExportHdr"/>
+    </CATCmdContainer>
+  </Template>
+
+  <!-- Define a Section -->
+  <Template syp:name="PrdSectionToolbar1" Target="CATAfrComponent">
+    <CATCmdContainer Name="PrdSection">
+      <CATCmdStarter Name="CATDRWUpdateAllHdr" Command="CATDRWUpdateAllHdr"/>
+      <CATCmdStarter Name="CATDRWFromAxisSetHdr" Command="CATDRWFromAxisSetHdr"/>
+    </CATCmdContainer>
+  </Template>
+
+</Styles>

@@ -1,0 +1,4 @@
+CATAECDrwAnnotationAddinHeader.CATAECDRWRunHdr.ShortHelp = "[~CATAECDrwAnnotationAddinHeader,CATAECDRWRunHdr.ShortHelp~ Thîs féåtüre will autømatically find all annotated features and annotate them in batches.]";
+CATAECDrwAnnotationAddinHeader.CATAECDRWRunHdr.Help = "[~CATAECDrwAnnotationAddinHeader,ader.CATAECDRWRunHdr.Help~ Géneråte Dîmensiøns]";
+CATAECDrwAnnotationAddinHeader.CATAECDRWRunHdr.Title = "[~CATAECDrwAnnotationAddinHeader,der.CATAECDRWRunHdr.Title~ Géneråte Dîmensiøns]";
+CATAECDrwAnnotationAddinHeader.CATAECDRWRunHdr.LongHelp = "[~CATAECDrwAnnotationAddinHeader,.CATAECDRWRunHdr.LongHelp~ Thîs féåtüre will autømatically find all annotated features and annotate them in batches.]";

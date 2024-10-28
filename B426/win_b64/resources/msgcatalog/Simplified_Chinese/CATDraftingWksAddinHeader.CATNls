@@ -1,0 +1,36 @@
+<meta charset="UTF-8"/>
+
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.Title     = "修改尺寸";
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.Help      = "修改尺寸";
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.ShortHelp = "选择一个尺寸并修改其文本.";
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.LongHelp  = "选择一个尺寸并修改其文本.";
+
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.Title     = "多个注释";
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.Help      = "多个注释";
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.ShortHelp = "选择所有的点,它可以把这些点联系到一个标签上.";
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.LongHelp  = "选择所有的点,它可以把这些点联系到一个标签上.";
+
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.Title     = "删除文字标签";
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.Help      = "此工具将自动删除当前视图中的所有文本标签.";
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.ShortHelp = "此工具将自动删除当前视图中的所有文本标签.";
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.LongHelp  = "此工具将自动删除当前视图中的所有文本标签.";
+
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.Title     = "删除尺寸标注";
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.Help      = "此工具将自动删除所有当前视图中的维度.";
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.ShortHelp = "此工具将自动删除所有当前视图中的维度.";
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.LongHelp  = "此工具将自动删除所有当前视图中的维度.";
+
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.Title     = "删除2D组件";
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.Help      = "删除2D组件";
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.ShortHelp = "自动删除所有 2D 来自当前视图的组件.";
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.LongHelp  = "自动删除所有 2D 来自当前视图的组件.";
+
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.Title     = "复原位置";
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.Help      = "复原位置";
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.ShortHelp = "重置当前视图的位置.";
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.LongHelp  = "重置当前视图的位置.";
+
+CATDraftingWksAddinHeader.CATDRWUpdateDimPositionHdr.Title     = "更新尺寸位置";
+CATDraftingWksAddinHeader.CATDRWUpdateDimPositionHdr.Help      = "更新尺寸位置";
+CATDraftingWksAddinHeader.CATDRWUpdateDimPositionHdr.ShortHelp = "更新尺寸位置";
+CATDraftingWksAddinHeader.CATDRWUpdateDimPositionHdr.LongHelp  = "更新尺寸位置";

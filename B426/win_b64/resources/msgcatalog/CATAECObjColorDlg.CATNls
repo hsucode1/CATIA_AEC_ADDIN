@@ -1,0 +1,7 @@
+<meta charset="UTF-8"/>
+Title = "Object Color Definition";
+Frame1.Title = "Setup";
+Frame1.Label1.Title = "Sets :";
+Frame1.PushButton1.Title = "Remove";
+Frame1.Label2.Title = "Object :";
+Frame1.Label3.Title = "RGB :";

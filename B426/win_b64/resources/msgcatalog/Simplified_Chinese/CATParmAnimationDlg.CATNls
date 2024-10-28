@@ -1,0 +1,8 @@
+<meta charset="UTF-8"/>
+Title = "截图定义";
+Frame1.Title = "设置";
+Frame1.Label1.Title = "选择参数: ";
+Frame1.Label2.Title = "参数: ";
+Frame1.Label3.Title = "参数步长: ";
+Frame1.Label4.Title = "导出路径: ";
+Frame1.PushButton1.Title = "浏览...";

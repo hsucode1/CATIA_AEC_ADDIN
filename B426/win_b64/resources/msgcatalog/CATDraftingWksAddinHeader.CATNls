@@ -1,0 +1,35 @@
+
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.Title     = "Modify Dimension";
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.Help      = "Modify Dimension";
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.ShortHelp = "Select a Dimension and modify its text.";
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.LongHelp  = "Select a Dimension and modify its text.";
+
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.Title     = "Multiple Annotations";
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.Help      = "Multiple Annotations";
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.ShortHelp = "Select all the points,It can relate these points into one label.";
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.LongHelp  = "Select all the points,It can relate these points into one label.";
+
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.Title     = "Delete Text Label";
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.Help      = "This tool will automaticaly remove all text dimensions from th current view.";
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.ShortHelp = "This tool will automaticaly remove all text dimensions from th current view..";
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.LongHelp  = "This tool will automaticaly remove all text dimensions from th current view..";
+
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.Title     = "Delete Dimension";
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.Help      = "This tool will automaticaly remove all dimensions from th current view.";
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.ShortHelp = "This tool will automaticaly remove all dimensions from th current view.";
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.LongHelp  = "This tool will automaticaly remove all dimensions from th current view.";
+
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.Title     = "Delete 2D Components";
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.Help      = "Delete 2D Components";
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.ShortHelp = "This tool will automaticaly remove all 2D Components from th current view.";
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.LongHelp  = "This tool will automaticaly remove all 2D Components from th current view.";
+
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.Title     = "View At Origin";
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.Help      = "Move the view to the origin position of the drawing";
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.ShortHelp = "Move the view to the origin position of the drawing";
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.LongHelp  = "Move the view to the origin position of the drawing";
+
+CATDraftingWksAddinHeader.CATDRWUpdateDimPositionHdr.Title     = "Update Dimension Position";
+CATDraftingWksAddinHeader.CATDRWUpdateDimPositionHdr.Help      = "Update Dimension Position";
+CATDraftingWksAddinHeader.CATDRWUpdateDimPositionHdr.ShortHelp = "Update Dimension Position";
+CATDraftingWksAddinHeader.CATDRWUpdateDimPositionHdr.LongHelp  = "Update Dimension Position";

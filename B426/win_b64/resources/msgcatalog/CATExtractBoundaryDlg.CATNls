@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+Title = "Extract Boundary ";
+Label1.Title = "Object : ";
+Label2.Title = "Type : ";
+CheckButton1.Title = "Edge";
+CheckButton2.Title = "Face";
+
+ExtraclError.Title = "Error";
+ExtraclError.Text = "提取特征信息失败 !";

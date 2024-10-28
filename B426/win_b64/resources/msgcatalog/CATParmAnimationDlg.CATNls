@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+Title = "Parameter Animation Export";
+Frame1.Title = "Setup";
+Frame1.Label1.Title = "Select parameters : ";
+Frame1.Label2.Title = "Parameters Interval : ";
+Frame1.Label3.Title = "Change Step : ";
+Frame1.Label4.Title = "Folder Path : ";
+Frame1.PushButton1.Title = "Browse...";
+Frame1.Label5.Title = "From";
+Frame1.Label6.Title = "To";

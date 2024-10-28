@@ -1,0 +1,8 @@
+CATArc3DModelingWorkbench.Title = "[~CATArc3DModelingWorkbench,3DModelingWorkbench.Title~ Büîlding 3D Désign Extensiøn]";
+CATArc3DModelingWorkbench.Help = "[~CATArc3DModelingWorkbench,c3DModelingWorkbench.Help~ Büîlding 3D Désign Extensiøn]";
+CATArc3DModelingWorkbench.ShortHelp = "[~CATArc3DModelingWorkbench,delingWorkbench.ShortHelp~ Büîlding 3D Désign Extensiøn]";
+StructureSection.Title = "[~CATArc3DModelingWorkbench,StructureSection.Title~ Strücturé]";
+CATArc3DModelingWorkbench.LongHelp = "[~CATArc3DModelingWorkbench,odelingWorkbench.LongHelp~ Büîlding 3D Désign Extensiøn]";
+DraftingSection.Title = "[~CATArc3DModelingWorkbench,DraftingSection.Title~ Dråwîng]";
+DataSection.Title = "[~CATArc3DModelingWorkbench,DataSection.Title~ Gløbål Data]";
+GridSection.Title = "[~CATArc3DModelingWorkbench,GridSection.Title~ Grîd]";

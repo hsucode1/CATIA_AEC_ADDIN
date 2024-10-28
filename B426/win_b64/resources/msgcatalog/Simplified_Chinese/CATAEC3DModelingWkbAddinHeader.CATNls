@@ -1,0 +1,25 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// 3DPART DESIGN
+//----------------------------------------------------------------------------
+CATAEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.Title     = "草图输出";
+CATAEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.Help      = "选择草图来创建输出";
+CATAEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.ShortHelp = "选择草图来创建输出";
+CATAEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.LongHelp  = "选择草图来创建输出";
+
+CATAEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.Title = "AEC 物体的颜色";
+CATAEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.ShortHelp = "AEC 物体的颜色";
+CATAEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.Help = "AEC 物体的颜色";
+CATAEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.LongHelp = "AEC 物体的颜色";
+
+CATAEC3DModelingWkbAddinHeader.CATParmAnimationHdr.Title     = "截图出口";
+CATAEC3DModelingWkbAddinHeader.CATParmAnimationHdr.Help      = "截图出口";
+CATAEC3DModelingWkbAddinHeader.CATParmAnimationHdr.ShortHelp = "选择参数, 设置其更改间隔和更改步长, 它将导出每个截图.";
+CATAEC3DModelingWkbAddinHeader.CATParmAnimationHdr.LongHelp  = "选择参数, 设置其更改间隔和更改步长, 它将导出每个截图.";
+
+CATAEC3DModelingWkbAddinHeader.CATExtractBoundaryHdr.Title        = "提取边界";
+CATAEC3DModelingWkbAddinHeader.CATExtractBoundaryHdr.Help         = "提取边界";
+CATAEC3DModelingWkbAddinHeader.CATExtractBoundaryHdr.ShortHelp    = "提取边界";
+CATAEC3DModelingWkbAddinHeader.CATExtractBoundaryHdr.LongHelp     = "提取边界";
+
+

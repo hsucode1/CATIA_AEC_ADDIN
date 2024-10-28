@@ -1,0 +1,6 @@
+Title = "[十CATAECObjColorDlg,Title十一構ソチ－Object Color Definition]";
+Frame1.Title = "[十CATAECObjColorDlg,Frame1.Title十一構ソチ－Setup]";
+Frame1.Label2.Title = "[十CATAECObjColorDlg,Frame1.Label2.Title十一構ソチ－Object :]";
+Frame1.Label3.Title = "[十CATAECObjColorDlg,Frame1.Label3.Title十一構ソチ－RGB :]";
+Frame1.Label1.Title = "[十CATAECObjColorDlg,Frame1.Label1.Title十一構ソチ－Sets :]";
+Frame1.PushButton1.Title = "[十CATAECObjColorDlg,Frame1.PushButton1.Title十一構ソチ－Remove]";

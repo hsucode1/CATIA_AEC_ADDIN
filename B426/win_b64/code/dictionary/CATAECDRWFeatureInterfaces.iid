@@ -1,0 +1,15 @@
+
+{10f7f7b6-6d3b-42aa-82a0-2df0617ebb4f} CATIArcAnnotationOnePointFeature
+ 
+{5ea6093d-dae5-4983-8f91-b677a260cf74} CATIArcAnnotationTwoPointFeature
+ 
+{f4e01980-3d99-4dad-a5e6-9b26d6638d78} CATIArcAnnotationAngleThreePointFeature
+ 
+{688615c0-af9d-489a-b63e-8c93b3198ed2} CATIArcAnnotationAngleTwoLineFeature
+ 
+{cfeef515-53b6-4359-a038-7f414d6d8789} CATIArcAnnotationRadiusFeature
+ 
+{27a3feb3-450d-4847-941a-d60f73003c87} CATIDRWPositionFeature
+ 
+{a549888a-3700-4a1f-9b96-9d4760e0aa14} CATIAECDRWFeatureFactory
+ 

@@ -1,0 +1,7 @@
+Label1.Title = "[~CATExtractBoundaryDlg,Label1.Title~ Objéct : ]";
+Title = "[~CATExtractBoundaryDlg,Title~ Extråct Bøündary ]";
+CheckButton2.Title = "[~CATExtractBoundaryDlg,CheckButton2.Title~ Fåcé]";
+CheckButton1.Title = "[~CATExtractBoundaryDlg,CheckButton1.Title~ Edgé]";
+ExtraclError.Text = "[~CATExtractBoundaryDlg,ExtraclError.Text~ ???????? !]";
+Label2.Title = "[~CATExtractBoundaryDlg,Label2.Title~ Typé : ]";
+ExtraclError.Title = "[~CATExtractBoundaryDlg,ExtraclError.Title~ Errør]";

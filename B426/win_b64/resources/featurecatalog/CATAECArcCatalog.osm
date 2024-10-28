@@ -1,0 +1,134 @@
+document `CATAECComponentsCatalog.CATfct` {
+	check_revision(0u3c611c50-1301-0000-faee643e8312eef8)
+	history("ds","","2020-05-27 06:19",0., 0u3c956ebc-0000-a4ec-5ece065400000006)
+	
+	#maturity=`Standard`
+	#type=`CAA`
+	
+	container `RootCont` #root #uuid(0u3c956ebc-0000-a4ec-5ece065400000002) {
+		
+// insert here your startups
+		//CATGrid
+		feature `ArcGridPlan` `GSMTool` @`MechMod.feat` #startup {
+		}
+		feature `ArcGridElevation``GSMTool`@`MechMod.feat` #startup {
+			component `ElevationOfRefHeight` #in
+		}
+		feature `ArcGridIntersection``GSMTool`@`MechMod.feat` #startup {
+		}
+		feature `ArcGridPlanFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			string `Name` #in
+			specobject `Input` #in
+			int `Desactive` #in
+		}
+		feature `ArcGridElevationFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			string `Name` #in
+			specobject `Input` #in
+			int `Desactive` #in
+		}
+		feature `ArcGridGEOIntersectionFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			string `Name` #in
+			specobject `Input1` #in
+			specobject `Input2` #in
+			int `Desactive` #in
+		}
+		feature `ArcGridIntersectionFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			string `Name` #in
+			specobject `Input` #in
+			int `Desactive` #in
+		}
+
+		//AEC Geo feature define
+		feature `CivilBridgePierFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			component `Length` #in
+			specobject `Input` #in
+			component `Name` #in
+		}
+
+
+		feature `CATAnchorBolt``GSMGeom`@`CATHybridShape.feat` #startup {
+			specobject `referencePoint` #in
+			specobject `referenceDirection` #in
+			specobject `radius` #in
+			component `startPtDistance` #in
+			component `endPtDistance` #in
+			boolean `blReverse` #in
+			int `Desactive` #in
+		}
+
+		feature `AECClothoid``GSMGeom`@`CATHybridShape.feat` #startup {
+			specobject `Input1` #in
+			specobject `Input2` #in
+			component `R` #in
+			component `lt` #in
+			int `Desactive` #in
+			component `ls` #in
+			component `le` #in
+			component `pList` #in
+			specobject `List` #list #in
+		}
+		feature `CATAECBDGTypeCurve``GSMGeom`@`CATHybridShape.feat` #startup {
+			specobject `Curve` #in
+			specobject `AxisOrPoint1` #in
+			specobject `AxisOrPoint2` #in
+			component `BridgeType` #in
+			component `StartStationing` #in
+			int `Desactive` #in
+		}
+
+		//cat new drw
+		feature `CATNewDrwFeature``GSMTool`@`MechMod.feat` #startup {
+
+		}
+
+		// ArcWallSetFeature
+		feature `ArcWallSetFeature``GSMTool`@`MechMod.feat` #startup {
+
+		}
+
+		// Binding the drawing
+		feature `CATNewSheetFeature``GSMTool`@`MechMod.feat` #startup {
+			specobject `Sheet` #in
+			specobject `Boundary` #in
+		}
+
+		feature `CATFrontViewFeature``GeometricalElement3D`@`MechMod.feat` #startup {
+			specobject `Support` #in
+			specobject `Axis` #in
+			component `Name` #in
+			component `Invert` #in
+			component `GVS` #in
+			specobject `View` #neutral
+			int `Desactive` #in
+			specobject `Boundary` #in
+		}
+
+
+		feature `AECRoadSectionTypeOne``GSMGeom`@`CATHybridShape.feat` #startup {
+			specobject `Axis` #in
+			component `RoadSectionType` #in
+			component `P1_H` #in
+			component `P1_V` #in
+			component `P2_H` #in
+			component `P2_V` #in
+			component `P3_H` #in
+			component `P3_V` #in
+			component `P4_H` #in
+			component `P4_V` #in
+			component `P5_H` #in
+			component `P5_V` #in
+			component `P6_H` #in
+			component `P6_V` #in
+			component `P7_H` #in
+			component `P7_V` #in
+			specobject `Line1` #out
+			specobject `Line2` #out
+			specobject `Line3` #out
+			specobject `Line4` #out
+			specobject `Line5` #out
+			specobject `Line6` #out
+			specobject `Line7` #out
+			int `Desactive` #in
+		}		
+	}
+}

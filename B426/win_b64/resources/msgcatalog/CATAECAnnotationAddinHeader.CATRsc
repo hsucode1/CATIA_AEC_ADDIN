@@ -1,0 +1,14 @@
+
+
+CATAECAnnotationAddinHeader.CATAECAnnOnePointHdr.Icon.Normal="I_CATAECAnnOnePoint";
+CATAECAnnotationAddinHeader.CATAECAnnDimTwoPointHdr.Icon.Normal="I_CATAECAnnDimTwoPoint";
+CATAECAnnotationAddinHeader.CATAECAnnAngleTwoLineHdr.Icon.Normal="I_CATAECAnnAngleTwoLine";
+CATAECAnnotationAddinHeader.CATAECAnnRadiusHdr.Icon.Normal="I_CATAECAnnRadius";
+
+
+CATAECAnnotationAddinHeader.CATAECDRWRunHdr.Icon.Normal="I_CATDRWSmartAnnotation";
+
+
+
+//== annotation end=======
+CATAECAnnotationAddinHeader.CATDRWPositionHdr.Icon.Normal="I_DrwReferencePosition";

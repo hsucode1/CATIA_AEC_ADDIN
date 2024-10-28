@@ -1,0 +1,11 @@
+Title = "[十CATAECDRWRunDlg,Title十一構ソチ－Dimension Generation]";
+Frame2.CheckButton3.Title = "[十CATAECDRWRunDlg,Frame2.CheckButton3.Title十一構ソチ－text]";
+Frame1.Title = "[十CATAECDRWRunDlg,Frame1.Title十一構ソチ－Frame1]";
+Frame2.CheckButton2.Title = "[十CATAECDRWRunDlg,Frame2.CheckButton2.Title十一構ソチ－2D Component]";
+Frame1.Label3.Title = "[十CATAECDRWRunDlg,Frame1.Label3.Title十一構ソチ－ Annotation Mode : ]";
+Frame2.Title = "[十CATAECDRWRunDlg,Frame2.Title十一構ソチ－Frame2]";
+Frame2.Label4.Title = "[十CATAECDRWRunDlg,Frame2.Label4.Title十一構ソチ－ Annotation 2D : ]";
+Frame2.Label5.Title = "[十CATAECDRWRunDlg,Frame2.Label5.Title十一構ソチ－ Annotation Text : ]";
+Frame2.Label1.Title = "[十CATAECDRWRunDlg,Frame2.Label1.Title十一構ソチ－ Drawing ID : ]";
+Frame1.CheckButton1.Title = "[十CATAECDRWRunDlg,Frame1.CheckButton1.Title十一構ソチ－Generate all dimension]";
+Frame2.PushButton1.Title = "[十CATAECDRWRunDlg,Frame2.PushButton1.Title十一構ソチ－Browser...]";
