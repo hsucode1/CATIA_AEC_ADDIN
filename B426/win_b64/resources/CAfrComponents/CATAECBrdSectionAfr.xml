@@ -38,6 +38,10 @@
             <CATCommandHeader  ID = "CATAECAddActionsHdr" ClassName = "CATAECAddActionsCmd" SharedLibraryName = "CATAECAddActions" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
             <CATCommandHeader  ID = "CATAECAddActionsComboHdr" ClassName = "CATAECAddActionsComboCmd" SharedLibraryName = "CATAECAddActions" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
             <CATCommandHeader  ID = "CATAECAddActionsVBHdr" ClassName = "CATAECAddActionsComboVBCmd" SharedLibraryName = "CATAECAddActions" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATDrwFromViewHdr" ClassName = "CATDrwFromViewCmd" SharedLibraryName = "CATDRWFromView" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATDrwFromViewLayoutHdr" ClassName = "CATDrwFromViewLayoutCmd" SharedLibraryName = "CATDRWFromView" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+<!--  -->
+
         </CATCAfrGroup>
     </Template>
     <!-- ************************************** -->
@@ -76,6 +80,14 @@
     <Template syp:name="GSDSectionAnimaToolbar" Target="CATAfrComponent">
         <CATCmdContainer Name = "GSDSectionAnimaToolbar">
             <CATCmdStarter Name = "CATParmAnimationHdr" Command = "CATParmAnimationHdr"/>
+        </CATCmdContainer>
+    </Template>
+
+    <!-- Define a Section -->
+    <Template syp:name="GSDViewlayoutSectionAnimaToolbar" Target="CATAfrComponent">
+        <CATCmdContainer Name = "GSDViewlayoutSectionAnimaToolbar">
+            <CATCmdStarter Name = "CATDrwFromViewHdr" Command = "CATDrwFromViewHdr"/>
+            <CATCmdStarter Name = "CATDrwFromViewLayoutHdr" Command = "CATDrwFromViewLayoutHdr"/>
         </CATCmdContainer>
     </Template>
 

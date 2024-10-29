@@ -26,3 +26,14 @@ CATAEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.Title = "Create UDF Temp
 CATAEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.ShortHelp = "Create Geometrical Set";
 CATAEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.Help = "Create Geometrical Set";
 CATAEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.LongHelp = "CreateUDFTemplate Command Used to create Geometrical Set";
+
+
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.Title     = "Annotation Drawing";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.Help      = "Annotation Drawing";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.ShortHelp = "Annotation Drawing";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.LongHelp  = "Annotation Drawing";
+
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.Title     = "Layout Drawing";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.Help      = "Layout Drawing";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.ShortHelp = "Layout Drawing";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.LongHelp  = "Layout Drawing";

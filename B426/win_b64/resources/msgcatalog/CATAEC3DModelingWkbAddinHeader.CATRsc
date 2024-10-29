@@ -6,4 +6,5 @@ CATAEC3DModelingWkbAddinHeader.CATParmAnimationHdr.Icon.Normal="I_CATParmAnimati
 CATAEC3DModelingWkbAddinHeader.CATExtractBoundaryHdr.Icon.Normal="I_CATExtractBoundary";
 
 
-
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.Icon.Normal="I_DrawingAnnotationView";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.Icon.Normal="I_DrawingLayoutView";
