@@ -1,3 +1,4 @@
 [1028/213006.000:WARNING:task_impl.cc(20)] No task runner for threadId 0
 [1028/213006.002:WARNING:task_impl.cc(20)] No task runner for threadId 5
 [1028/213006.008:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[1029/103147.776:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
