@@ -2,5 +2,5 @@
 
 Title = "Modify Dimention";
 Frame1.Title = "Setup";
-Frame1.Label1.Title = " Select Dim : ";
-Frame1.Label2.Title = " Value : ";
+Frame1.Label1.Title = "Dimension : ";
+Frame1.Label2.Title = "Value : ";
