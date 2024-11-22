@@ -1,0 +1,17 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// WORKSHOP
+//----------------------------------------------------------------------------
+CATArc3DModelingWorkbench.Title      = "Building 3D Design Extension";
+CATArc3DModelingWorkbench.ShortHelp  = "Building 3D Design Extension";
+CATArc3DModelingWorkbench.Help       = "Building 3D Design Extension";
+CATArc3DModelingWorkbench.LongHelp   = "Building 3D Design Extension";
+
+//----------------------------------------------------------------------------
+// TOOLBAR 
+//---------------------------------------------------------------------------- 
+
+GridSection.Title="Grid";
+DataSection.Title="Global Data";
+StructureSection.Title="Structure";
+DraftingSection.Title="Drawing";

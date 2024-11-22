@@ -1,0 +1,14 @@
+
+
+
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.Title     = "Grid Set";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.Help      = "Create building grid";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.ShortHelp = "Create building grid";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.LongHelp  = "Create building grid";
+
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.Title     = "Grid";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.Help      = "Create building grid";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.ShortHelp = "Create building grid";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.LongHelp  = "Create building grid";
+
+

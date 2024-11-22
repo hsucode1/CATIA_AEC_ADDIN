@@ -1,0 +1,8 @@
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.Help = "[十CATArc3DModelingWorkbenchHeader,der.CATAECBDGGridHdr.Help十一構ソチ－Create building grid]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.ShortHelp = "[十CATArc3DModelingWorkbenchHeader,ATAECBDGGridHdr.ShortHelp十一構ソチ－Create building grid]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.ShortHelp = "[十CATArc3DModelingWorkbenchHeader,GGridFeatureHdr.ShortHelp十一構ソチ－Create building grid]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.LongHelp = "[十CATArc3DModelingWorkbenchHeader,CATAECBDGGridHdr.LongHelp十一構ソチ－Create building grid]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.Title = "[十CATArc3DModelingWorkbenchHeader,er.CATAECBDGGridHdr.Title十一構ソチ－Grid Set]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.Help = "[十CATArc3DModelingWorkbenchHeader,AECBDGGridFeatureHdr.Help十一構ソチ－Create building grid]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.LongHelp = "[十CATArc3DModelingWorkbenchHeader,DGGridFeatureHdr.LongHelp十一構ソチ－Create building grid]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.Title = "[十CATArc3DModelingWorkbenchHeader,ECBDGGridFeatureHdr.Title十一構ソチ－Grid]";

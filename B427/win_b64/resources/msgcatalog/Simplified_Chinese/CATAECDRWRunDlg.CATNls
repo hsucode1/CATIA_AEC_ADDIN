@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+Title = "标注生成";
+Frame2.Title = "Frame2";
+Frame2.CheckButton2.Title = "二维部件";
+Frame2.Label1.Title = "模板 ID: ";
+Frame2.Label2.Title = "模板版本: ";
+Frame2.CheckButton3.Title = "文字标注";
+Frame2.Label4.Title = "2D 部件 : ";
+Frame2.Label5.Title = "文字标签 : ";
+Frame2.PushButton1.Title = "PushButton1";
+Frame1.Title = "Frame1";
+Frame1.Label3.Title = "标注模式 : ";
+Frame1.CheckButton1.Title = "生成所有标注";
+NoSelect.Text = "没有选择,请选择图纸模板";
+OpenError.Title = "Error";
+OpenError.Text = "打开失败.";

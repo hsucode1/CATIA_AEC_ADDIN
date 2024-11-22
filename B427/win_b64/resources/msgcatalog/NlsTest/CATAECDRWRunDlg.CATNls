@@ -1,0 +1,11 @@
+Title = "[~CATAECDRWRunDlg,Title~ Dîménsiøn Generåtion]";
+Frame2.CheckButton3.Title = "[~CATAECDRWRunDlg,Frame2.CheckButton3.Title~ téxt]";
+Frame1.Title = "[~CATAECDRWRunDlg,Frame1.Title~ Fråmé1]";
+Frame2.CheckButton2.Title = "[~CATAECDRWRunDlg,Frame2.CheckButton2.Title~ 2D Cømponént]";
+Frame1.Label3.Title = "[~CATAECDRWRunDlg,Frame1.Label3.Title~  Annøtåtîon Modé : ]";
+Frame2.Title = "[~CATAECDRWRunDlg,Frame2.Title~ Fråmé2]";
+Frame2.Label4.Title = "[~CATAECDRWRunDlg,Frame2.Label4.Title~  Annøtåtîon 2D : ]";
+Frame2.Label5.Title = "[~CATAECDRWRunDlg,Frame2.Label5.Title~  Annøtåtîon Téxt : ]";
+Frame2.Label1.Title = "[~CATAECDRWRunDlg,Frame2.Label1.Title~  Dråwîng ID : ]";
+Frame1.CheckButton1.Title = "[~CATAECDRWRunDlg,Frame1.CheckButton1.Title~ Géneråte all dîmensiøn]";
+Frame2.PushButton1.Title = "[~CATAECDRWRunDlg,Frame2.PushButton1.Title~ Brøwsér...]";

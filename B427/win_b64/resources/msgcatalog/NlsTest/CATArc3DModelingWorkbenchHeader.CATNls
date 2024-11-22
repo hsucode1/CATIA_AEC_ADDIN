@@ -1,0 +1,8 @@
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.Help = "[~CATArc3DModelingWorkbenchHeader,der.CATAECBDGGridHdr.Help~ Créåte büîlding grid]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.ShortHelp = "[~CATArc3DModelingWorkbenchHeader,ATAECBDGGridHdr.ShortHelp~ Créåte büîlding grid]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.ShortHelp = "[~CATArc3DModelingWorkbenchHeader,GGridFeatureHdr.ShortHelp~ Créåte büîlding grid]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.LongHelp = "[~CATArc3DModelingWorkbenchHeader,CATAECBDGGridHdr.LongHelp~ Créåte büîlding grid]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.Title = "[~CATArc3DModelingWorkbenchHeader,er.CATAECBDGGridHdr.Title~ Grîd Sét]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.Help = "[~CATArc3DModelingWorkbenchHeader,AECBDGGridFeatureHdr.Help~ Créåte büîlding grid]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.LongHelp = "[~CATArc3DModelingWorkbenchHeader,DGGridFeatureHdr.LongHelp~ Créåte büîlding grid]";
+CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.Title = "[~CATArc3DModelingWorkbenchHeader,ECBDGGridFeatureHdr.Title~ Grîd]";

@@ -1,0 +1,32 @@
+
+
+CATAECAnnotationAddinHeader.CATAECAnnOnePointHdr.Title     = "Label";
+CATAECAnnotationAddinHeader.CATAECAnnOnePointHdr.Help      = "Select 1 point and instantiate the 2D component";
+CATAECAnnotationAddinHeader.CATAECAnnOnePointHdr.ShortHelp = "Select 1 point and instantiate the 2D component";
+CATAECAnnotationAddinHeader.CATAECAnnOnePointHdr.LongHelp  = "Select 1 point and instantiate the 2D component";
+
+CATAECAnnotationAddinHeader.CATAECAnnDimTwoPointHdr.Title     = "Dimention";
+CATAECAnnotationAddinHeader.CATAECAnnDimTwoPointHdr.Help      = "Dimention base on 2 points";
+CATAECAnnotationAddinHeader.CATAECAnnDimTwoPointHdr.ShortHelp = "Dimention base on 2 points";
+CATAECAnnotationAddinHeader.CATAECAnnDimTwoPointHdr.LongHelp  = "Select 2 points to generate dimension";
+
+CATAECAnnotationAddinHeader.CATAECAnnAngleTwoLineHdr.Title     = "Angle";
+CATAECAnnotationAddinHeader.CATAECAnnAngleTwoLineHdr.Help      = "Select 2 Lines and then generate an angular dimension.";
+CATAECAnnotationAddinHeader.CATAECAnnAngleTwoLineHdr.ShortHelp = "Select 2 Lines and then generate an angular dimension.";
+CATAECAnnotationAddinHeader.CATAECAnnAngleTwoLineHdr.LongHelp  = "Select 2 Lines and then generate an angular dimension.";
+
+CATAECAnnotationAddinHeader.CATAECAnnAngleThreePointHdr.Title     = "Angle";
+CATAECAnnotationAddinHeader.CATAECAnnAngleThreePointHdr.Help      = "Select 3 points and then generate an angular dimension.";
+CATAECAnnotationAddinHeader.CATAECAnnAngleThreePointHdr.ShortHelp = "Select 3 points and then generate an angular dimension.";
+CATAECAnnotationAddinHeader.CATAECAnnAngleThreePointHdr.LongHelp  = "Select 3 points and then generate an angular dimension.";
+
+CATAECAnnotationAddinHeader.CATAECAnnRadiusHdr.Title     = "Radius";
+CATAECAnnotationAddinHeader.CATAECAnnRadiusHdr.Help      = "Select a circle to generate radius features";
+CATAECAnnotationAddinHeader.CATAECAnnRadiusHdr.ShortHelp = "Select a circle to generate radius features";
+CATAECAnnotationAddinHeader.CATAECAnnRadiusHdr.LongHelp  = "Select a circle to generate radius features";
+
+
+CATAECAnnotationAddinHeader.CATDRWPositionHdr.Title     = "Axis Reference";
+CATAECAnnotationAddinHeader.CATDRWPositionHdr.Help      = "Base on axis system create 3 lines";
+CATAECAnnotationAddinHeader.CATDRWPositionHdr.ShortHelp = "Base on axis system create 3 lines";
+CATAECAnnotationAddinHeader.CATDRWPositionHdr.LongHelp  = "Base on axis system create 3 lines";

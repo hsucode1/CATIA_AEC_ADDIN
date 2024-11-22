@@ -1,0 +1,9 @@
+Title = "[~CATParmAnimationDlg,Title~ Påraméter Anîmatiøn Export]";
+Frame1.Title = "[~CATParmAnimationDlg,Frame1.Title~ Sétüp]";
+Frame1.Label6.Title = "[~CATParmAnimationDlg,Frame1.Label6.Title~ Tø]";
+Frame1.Label4.Title = "[~CATParmAnimationDlg,Frame1.Label4.Title~ Føldér Påth : ]";
+Frame1.Label5.Title = "[~CATParmAnimationDlg,Frame1.Label5.Title~ Frøm]";
+Frame1.Label2.Title = "[~CATParmAnimationDlg,Frame1.Label2.Title~ Påraméters Interval : ]";
+Frame1.Label3.Title = "[~CATParmAnimationDlg,Frame1.Label3.Title~ Chångé Step : ]";
+Frame1.Label1.Title = "[~CATParmAnimationDlg,Frame1.Label1.Title~ Sélect pårameters : ]";
+Frame1.PushButton1.Title = "[~CATParmAnimationDlg,Frame1.PushButton1.Title~ Brøwsé...]";

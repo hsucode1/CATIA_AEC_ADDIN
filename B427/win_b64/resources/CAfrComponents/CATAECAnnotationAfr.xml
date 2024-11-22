@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Styles xmlns:syp="http://www.3ds.com/xsd/SYP">
+
+  <!-- ************************************** -->
+  <!--   Commands Headers  -->
+  <!-- ************************************** -->
+
+  <Template syp:name="AECDraftigAnnotationCommandHeaders" Target="CATAfrComponent">
+    <CATCAfrGroup>
+
+      <CATCommandHeader  ID="CATAECAnnAngleThreePointHdr" ClassName="CATAECAnnAngleThreePointCmd" SharedLibraryName="CATAEC3DAnnotationUI" ResourceFile="CATAECAnnotationAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATAECAnnOnePointHdr" ClassName="CATAECAnnOnePointCmd" SharedLibraryName="CATAEC3DAnnotationUI" ResourceFile="CATAECAnnotationAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATAECAnnDimTwoPointHdr" ClassName="CATAECAnnDimTwoPointCmd" SharedLibraryName="CATAEC3DAnnotationUI" ResourceFile="CATAECAnnotationAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATAECAnnAngleTwoLineHdr" ClassName="CATAECAnnAngleTwoLineCmd" SharedLibraryName="CATAEC3DAnnotationUI" ResourceFile="CATAECAnnotationAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATAECAnnRadiusHdr" ClassName="CATAECAnnRadiusCmd" SharedLibraryName="CATAEC3DAnnotationUI" ResourceFile="CATAECAnnotationAddinHeader"  Available="1"/>
+    
+      
+      <!--Drawing-->
+
+      <CATCommandHeader  ID="CATDRWPositionHdr" ClassName="CATDRWPositionCmd" SharedLibraryName="CATDRWPositionFeatureUI" ResourceFile="CATAECAnnotationAddinHeader"  Available="1"/>
+
+      <!-- <CATCommandHeader  ID="CATExtractBoundaryHdr" ClassName="CATExtractBoundaryCmd" SharedLibraryName="CATExtractBoundary" ResourceFile="AECDraftingWkbAddinHeader" Available="1"/> -->
+
+    </CATCAfrGroup>
+  </Template>
+
+  <!-- Define a Section -->
+  <Template syp:name="DrawingAnnotationModelSectionToolbar" Target="CATAfrComponent">
+  <!-- Define a Toolbar with commands -->
+    <CATCmdContainer Name="AnnoTlb">
+      <CATCmdStarter Name="CATAECAnnOnePointHdr" Command="CATAECAnnOnePointHdr"/>
+      <CATCmdStarter Name="CATAECAnnDimTwoPointHdr" Command="CATAECAnnDimTwoPointHdr"/>
+      <CATCmdStarter Name="CATAECAnnRadiusHdr" Command="CATAECAnnRadiusHdr"/>
+      <CATCmdStarter Name="CATAECAnnAngleTwoLineHdr" Command="CATAECAnnAngleTwoLineHdr"/>
+      <!-- <CATCmdStarter Name="CATAECAnnAngleThreePointHdr" Command="CATAECAnnAngleThreePointHdr"/> -->
+    </CATCmdContainer>
+  </Template>
+
+  <!-- Define a Section -->
+  <Template syp:name="DrawingModelSectionToolbar" Target="CATAfrComponent">
+    <!-- Define a Toolbar with commands -->
+    <CATCmdContainer Name="DrawingModelTlb">
+      <!-- <CATCmdStarter Name="CATExtractBoundaryHdr" Command="CATExtractBoundaryHdr"/> -->
+    </CATCmdContainer>
+  </Template>
+
+  <!-- Define a Section -->
+  <Template syp:name="DrawingPositionSectionToolbar" Target="CATAfrComponent">
+    <CATCmdContainer Name="DrawingPositionTlb">
+      <CATCmdStarter Name="CATDRWPositionHdr" Command="CATDRWPositionHdr"/>
+    </CATCmdContainer>
+  </Template>
+
+</Styles>
+

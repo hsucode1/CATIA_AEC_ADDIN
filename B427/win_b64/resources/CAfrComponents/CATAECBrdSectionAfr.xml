@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Styles
+    xmlns:syp="http://www.3ds.com/xsd/SYP">
+    <!-- ************************************** -->
+    <!--          Commands Headers              -->
+    <!-- ************************************** -->
+    <Template syp:name="AECBRDCommandHeaders" Target="CATAfrComponent">
+        <CATCAfrGroup>
+            <!--Prt-->
+            <CATCommandHeader  ID = "CATFeatureExportAndImportDataHdr"  ClassName = "CATFeatureExportAndImportDataCmd" SharedLibraryName = "CATFeatureExportAndImportData" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATUDFDataModifyHdr"  ClassName = "CATUDFDataModifyCmd" SharedLibraryName = "CATUDFDataModify" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATUDFInstantiateHdr" ClassName = "CATUDFInstantiateCmd" SharedLibraryName = "CATUDFInstantiate" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATUDFMulInstantiateHdr" ClassName = "CATUDFMulInstantiateCmd" SharedLibraryName = "CATUDFMulInstantiate" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATAECIFCTemplateHdr" ClassName = "CATAECIFCTemplateCmd" SharedLibraryName = "CATAECIFCTemplateUI" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <!-- For 3D part Template-->
+            <CATCommandHeader  ID = "CATParmAnimationHdr" ClassName = "CATParmAnimationCmd" SharedLibraryName = "CATParmAnimation" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available = "1"/>
+            <CATCommandHeader  ID = "CATAECFeatureTemplateHdr" ClassName = "CATAECFeatureTemplateCmd" SharedLibraryName = "CATAECFeatureTemplate"  ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available = "1"/>
+            <CATCommandHeader  ID = "CATAECObjectColorHdr" ClassName = "CATAECObjColorCmd" SharedLibraryName = "CATAECObjColor"  ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available = "1"/>
+            <CATCommandHeader  ID = "CATExtractBoundaryHdr" ClassName = "CATExtractBoundaryCmd" SharedLibraryName = "CATExtractBoundary" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available = "1"/>
+            <CATCommandHeader  ID = "CATSketchOutputsHdr" ClassName ="CATSketchOutputsCmd"  SharedLibraryName ="CATSketchOutputs" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <!-- For Product-->
+            <CATCommandHeader  ID = "CATDRWFromAxisSetHdr" ClassName = "CATDRWFromAxisSetCmd" SharedLibraryName = "CATDRWFromAxisSet" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available = "1"/>
+            <CATCommandHeader  ID = "CATDRWUpdateAllHdr" ClassName = "CATDRWUpdateAllCmd" SharedLibraryName = "CATDRWUpdateAll" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available = "1"/>
+            <CATCommandHeader  ID = "CATDRWExportHdr" ClassName = "CATDRWExportCmd" SharedLibraryName = "CATDRWExport" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available = "1"/>
+            <CATCommandHeader  ID = "CATPRDUDFdataImportAndExportHdr" ClassName ="CATPRDUDFdataImportAndExportCmd" SharedLibraryName ="CATPRDUDFdataImportAndExport" ResourceFile ="CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATAECBRDUDFExportDataHdr" ClassName = "CATAECBRDUDFExportDataCmd" SharedLibraryName = "CATCIVBRDUDFExportData" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available = "1"/>
+            <CATCommandHeader  ID = "CATAECPrdParmSyncHdr" ClassName = "CATAECPrdParmSyncCmd" SharedLibraryName = "CATAECPrdParmSync" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATPrdRenameTreeHdr" ClassName ="CATPrdRenameTreeCmd" SharedLibraryName ="CATPrdRenameTree"    ResourceFile ="CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATPrdRenameHdr" ClassName = "CATPrdRenameCmd" SharedLibraryName = "CATPrdRename" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available = "1"/>
+            <CATCommandHeader  ID = "CATPrtKPRunHdr" ClassName = "CATPrtKPRunCmd" SharedLibraryName = "CATPrtKPRun" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available = "1"/>
+            <CATCommandHeader  ID = "CATBatchKPRunHdr" ClassName ="CATKPBatchrunCmd" SharedLibraryName ="CATKPBatchrun" ResourceFile ="CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATDefineBodyHdr" ClassName = "CATDefineBodyCmd" SharedLibraryName = "CATDefineBody" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available = "1"/>
+            <CATCommandHeader  ID = "CATDrwDataFromPrdHdr" ClassName ="CATDrwDataFromPrdCmd" SharedLibraryName ="CATDrwDataFromPrd" ResourceFile ="CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATDrwDataFromPrdHdr" ClassName ="CATDrwDataFromPrdCmd" SharedLibraryName ="CATDrwDataFromPrd" ResourceFile ="CATCivilPrdWksHdrAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATCivilPrdRenameHdr" ClassName ="CATCivilPrdRenameCmd" SharedLibraryName ="CATCivilPrdRename" ResourceFile ="CATCivilPrdWksHdrAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATCreateNewObjectHdr" ClassName ="CATCreateNewObjectCmd" SharedLibraryName ="CATCreateNewObject" ResourceFile ="CATCivilPrdWksHdrAddinHeader" Available ="1"/>
+            <!-- For All -->
+            <CATCommandHeader  ID = "CATAECAddActionsHdr" ClassName = "CATAECAddActionsCmd" SharedLibraryName = "CATAECAddActions" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATAECAddActionsComboHdr" ClassName = "CATAECAddActionsComboCmd" SharedLibraryName = "CATAECAddActions" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATAECAddActionsVBHdr" ClassName = "CATAECAddActionsComboVBCmd" SharedLibraryName = "CATAECAddActions" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATDrwFromViewHdr" ClassName = "CATDrwFromViewCmd" SharedLibraryName = "CATDRWFromView" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+            <CATCommandHeader  ID = "CATDrwFromViewLayoutHdr" ClassName = "CATDrwFromViewLayoutCmd" SharedLibraryName = "CATDRWFromView" ResourceFile = "CATAEC3DModelingWkbAddinHeader" Available ="1"/>
+<!--  -->
+
+        </CATCAfrGroup>
+    </Template>
+    <!-- ************************************** -->
+    <!--          All 3D Part                   -->
+    <!-- ************************************** -->
+    <!--Project Section -->
+    <Template syp:name="CATUDFInstantiateSectionToolbar" Target="CATAfrComponent">
+        <CATCmdContainer Name="CATUDFInstantiateSection">
+            <CATCmdStarter Name = "CATUDFInstantiateHdr" Command = "CATUDFInstantiateHdr"/>
+            <CATCmdStarter Name = "CATUDFMulInstantiateHdr" Command = "CATUDFMulInstantiateHdr"/>
+        </CATCmdContainer>
+    </Template>
+    <!--Sketcher Profiles -->
+    <Template syp:name="DataSectionToolbar" Target="CATAfrComponent">
+        <CATCmdContainer Name = "UDFFearureDataSection">
+            <CATCmdStarter Name = "CATFeatureExportAndImportDataHdr" Command = "CATFeatureExportAndImportDataHdr"/>
+            <CATCmdStarter Name = "CATUDFDataModifyHdr" Command = "CATUDFDataModifyHdr"/>
+        </CATCmdContainer>
+    </Template>
+    <!-- Define a Section -->
+    <Template syp:name="TemplateTbl" Target="CATAfrComponent">
+        <CATCmdContainer Name = "TemplateTbl">
+            <CATCmdStarter Name = "CATAECFeatureTemplateHdr" Command = "CATAECFeatureTemplateHdr"/>
+        </CATCmdContainer>
+    </Template>
+
+    <!-- Define a Section -->
+    <Template syp:name="GSDSectionWireToolbar" Target="CATAfrComponent">
+        <CATCmdContainer Name = "GSDSectionWireToolbar">
+            <CATCmdStarter Name = "CATSketchOutputsHdr" Command = "CATSketchOutputsHdr"/>
+            <CATCmdStarter Name = "CATExtractBoundaryHdr" Command = "CATExtractBoundaryHdr"/>
+        </CATCmdContainer>
+    </Template>
+
+    <!-- Define a Section -->
+    <Template syp:name="GSDSectionAnimaToolbar" Target="CATAfrComponent">
+        <CATCmdContainer Name = "GSDSectionAnimaToolbar">
+            <CATCmdStarter Name = "CATParmAnimationHdr" Command = "CATParmAnimationHdr"/>
+        </CATCmdContainer>
+    </Template>
+
+    <!-- Define a Section -->
+    <Template syp:name="GSDViewlayoutSectionAnimaToolbar" Target="CATAfrComponent">
+        <CATCmdContainer Name = "GSDViewlayoutSectionAnimaToolbar">
+            <CATCmdStarter Name = "CATDrwFromViewHdr" Command = "CATDrwFromViewHdr"/>
+            <CATCmdStarter Name = "CATDrwFromViewLayoutHdr" Command = "CATDrwFromViewLayoutHdr"/>
+        </CATCmdContainer>
+    </Template>
+
+    <!-- ************************************** -->
+    <!--          Both of All                   -->
+    <!-- ************************************** -->
+    <!-- Define a Section -->
+    <Template syp:name="KPRunToolbar" Target="CATAfrComponent">
+        <CATCmdContainer Name = "KPRunToolbarTlb">
+            <CATCmdStarter Name = "CATBatchKPRunHdr" Command = "CATBatchKPRunHdr"/>
+            <CATCmdStarter Name = "CATPrtKPRunHdr" Command = "CATPrtKPRunHdr"/>
+        </CATCmdContainer>
+    </Template>
+    <Template syp:name="ActionToolbar" Target="CATAfrComponent">
+        <CATCmdContainer Name = "ActionToolbarTlb1">
+            <CATCmdContainer Name = "ActionVBScriptToolbarTlb">
+                <CATCmdStarter Name = "CATAECAddActionsComboHdr" Command = "CATAECAddActionsComboHdr"/>
+                <CATCmdStarter Name = "CATAECAddActionsHdr" Command = "CATAECAddActionsHdr"/>
+            </CATCmdContainer>
+            <CATCmdStarter Name = "CATAECAddActionsVBHdr" Command = "CATAECAddActionsVBHdr"/>
+        </CATCmdContainer>
+    </Template>
+    <!-- ************************************** -->
+    <!--          All Product            -->
+    <!-- ************************************** -->
+    <!-- Define a Section -->
+    <Template syp:name="PrdDRWSectionToolbar1" Target="CATAfrComponent">
+        <CATCmdContainer Name = "PrdDRWSection">
+            <CATCmdStarter Name = "CATDRWExportHdr" Command = "CATDRWExportHdr"/>
+            <CATCmdStarter Name = "CATDRWFromAxisSetHdr" Command = "CATDRWFromAxisSetHdr"/>
+        </CATCmdContainer>
+    </Template>
+    <!-- Define a Section -->
+    <Template syp:name="PrdSectionToolbar1" Target="CATAfrComponent">
+        <CATCmdContainer Name = "PrdSection">
+            <CATCmdStarter Name = "CATPrdRenameHdr" Command = "CATPrdRenameHdr"/>
+            <CATCmdStarter Name = "CATPrdRenameTreeHdr" Command = "CATPrdRenameTreeHdr"/>
+            <CATCmdStarter Name = "CATDRWUpdateAllHdr" Command = "CATDRWUpdateAllHdr"/>
+            <CATCmdStarter Name = "CATDefineBodyHdr" Command = "CATDefineBodyHdr"/>
+        </CATCmdContainer>
+    </Template>
+    <!-- Define a Section -->
+    <Template syp:name="PrdUDFDataSectionToolbar1" Target="CATAfrComponent">
+        <CATCmdContainer Name = "PrdUDFDataSection1">
+            <CATCmdStarter Name = "CATPRDUDFdataImportAndExportHdr" Command = "CATPRDUDFdataImportAndExportHdr"/>
+            <!--<CATCmdStarter Name = "CATAECBRDUDFExportDataHdr" Command = "CATAECBRDUDFExportDataHdr"/>-->
+        </CATCmdContainer>
+    </Template>
+    <!-- Define a Section -->
+    <Template syp:name="PrdDataSectionToolbar2" Target="CATAfrComponent">
+        <CATCmdContainer Name ="CATCivilPrdWksHdrToolbar">
+            <CATCmdStarter Name ="CATDrwDataFromPrdName" Command ="CATDrwDataFromPrdHdr"/>
+            <CATCmdStarter Name ="CATCivilPrdRenameName" Command ="CATCivilPrdRenameHdr"/>
+        </CATCmdContainer>
+        <CATCmdContainer Name ="CATCivilPrdWksHdrToolbar1">
+            <CATCmdStarter Name ="CATCreateNewObjectName" Command ="CATCreateNewObjectHdr"/>
+        </CATCmdContainer>
+    </Template>
+    <!-- Define a Section -->
+    <Template syp:name="PrdUDFDataSectionToolbar2" Target="CATAfrComponent">
+        <CATCmdContainer Name = "PrdUDFDataSection2">
+            <!--<CATCmdStarter Name = "CATAECBRDSyncUDFHdr" Command = "CATAECBRDSyncUDFHdr"/>-->
+            <CATCmdStarter Name = "CATAECPrdParmSyncHdr" Command = "CATAECPrdParmSyncHdr"/>
+        </CATCmdContainer>
+    </Template>
+</Styles>

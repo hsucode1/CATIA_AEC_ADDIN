@@ -1,0 +1,7 @@
+Label1.Title = "[十CATExtractBoundaryDlg,Label1.Title十一構ソチ－Object : ]";
+Title = "[十CATExtractBoundaryDlg,Title十一構ソチ－Extract Boundary ]";
+CheckButton2.Title = "[十CATExtractBoundaryDlg,CheckButton2.Title十一構ソチ－Face]";
+CheckButton1.Title = "[十CATExtractBoundaryDlg,CheckButton1.Title十一構ソチ－Edge]";
+ExtraclError.Text = "[十CATExtractBoundaryDlg,ExtraclError.Text十一構ソチ－???????? !]";
+Label2.Title = "[十CATExtractBoundaryDlg,Label2.Title十一構ソチ－Type : ]";
+ExtraclError.Title = "[十CATExtractBoundaryDlg,ExtraclError.Title十一構ソチ－Error]";

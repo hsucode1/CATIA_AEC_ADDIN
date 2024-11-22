@@ -1,0 +1,5 @@
+Title = "[~CATAECFeatureTemplateDlg,Title~ AEC Féåtüre Template]";
+CheckButtonInputConstruction.Title = "[~CATAECFeatureTemplateDlg,onInputConstruction.Title~ INPUT CONSTRUCTION]";
+CheckButtonInput.Title = "[~CATAECFeatureTemplateDlg,CheckButtonInput.Title~ INPUT]";
+CheckButtonOrderedGeometricalSet.Title = "[~CATAECFeatureTemplateDlg,deredGeometricalSet.Title~ ORDERED GEOMETRICAL SET]";
+CheckButtonGeometricalSet.Title = "[~CATAECFeatureTemplateDlg,uttonGeometricalSet.Title~ GEOMETRICAL SET]";

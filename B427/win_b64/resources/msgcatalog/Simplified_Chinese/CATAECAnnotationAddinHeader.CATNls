@@ -1,0 +1,32 @@
+<meta charset="UTF-8"/>
+
+CATAECAnnotationAddinHeader.CATAECAnnOnePointHdr.Title     = "标签";
+CATAECAnnotationAddinHeader.CATAECAnnOnePointHdr.Help      = "选择1个点并实例化2d组件";
+CATAECAnnotationAddinHeader.CATAECAnnOnePointHdr.ShortHelp = "选择1个点并实例化2d组件";
+CATAECAnnotationAddinHeader.CATAECAnnOnePointHdr.LongHelp  = "选择1个点并实例化2d组件";
+
+CATAECAnnotationAddinHeader.CATAECAnnDimTwoPointHdr.Title     = "尺寸";
+CATAECAnnotationAddinHeader.CATAECAnnDimTwoPointHdr.Help      = "基于2个点的尺寸";
+CATAECAnnotationAddinHeader.CATAECAnnDimTwoPointHdr.ShortHelp = "基于2个点的尺寸";
+CATAECAnnotationAddinHeader.CATAECAnnDimTwoPointHdr.LongHelp  = "基于2个点的尺寸";
+
+CATAECAnnotationAddinHeader.CATAECAnnAngleTwoLineHdr.Title     = "角度";
+CATAECAnnotationAddinHeader.CATAECAnnAngleTwoLineHdr.Help      = "选择两条线，然后生成一个角尺寸.";
+CATAECAnnotationAddinHeader.CATAECAnnAngleTwoLineHdr.ShortHelp = "选择两条线，然后生成一个角尺寸.";
+CATAECAnnotationAddinHeader.CATAECAnnAngleTwoLineHdr.LongHelp  = "选择两条线，然后生成一个角尺寸.";
+
+CATAECAnnotationAddinHeader.CATAECAnnAngleThreePointHdr.Title     = "角度";
+CATAECAnnotationAddinHeader.CATAECAnnAngleThreePointHdr.Help      = "选择3点，然后生成一个角尺寸.";
+CATAECAnnotationAddinHeader.CATAECAnnAngleThreePointHdr.ShortHelp = "选择3点，然后生成一个角尺寸.";
+CATAECAnnotationAddinHeader.CATAECAnnAngleThreePointHdr.LongHelp  = "选择3点，然后生成一个角尺寸.";
+
+CATAECAnnotationAddinHeader.CATAECAnnRadiusHdr.Title     = "半径";
+CATAECAnnotationAddinHeader.CATAECAnnRadiusHdr.Help      = "选择一个圆，生成一个圆的标注";
+CATAECAnnotationAddinHeader.CATAECAnnRadiusHdr.ShortHelp = "选择一个圆，生成一个圆的标注";
+CATAECAnnotationAddinHeader.CATAECAnnRadiusHdr.LongHelp  = "选择一个圆，生成一个圆的标注";
+
+
+CATAECAnnotationAddinHeader.CATDRWPositionHdr.Title     = "位置参考";
+CATAECAnnotationAddinHeader.CATDRWPositionHdr.Help      = "基于轴系统创建3条线";
+CATAECAnnotationAddinHeader.CATDRWPositionHdr.ShortHelp = "基于轴系统创建3条线";
+CATAECAnnotationAddinHeader.CATDRWPositionHdr.LongHelp  = "基于轴系统创建3条线";

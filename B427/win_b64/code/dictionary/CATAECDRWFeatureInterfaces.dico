@@ -1,0 +1,108 @@
+#======================================================================
+#  Jul 2006  ArcAnnotation 
+#======================================================================
+
+ArcAnnotationOnePointFeature CATIArcAnnotationOnePointFeature libCATAEC3DAnnotationFeature
+ArcAnnotationOnePointFeature CATINavigateObject	libCATAEC3DAnnotationFeature
+ArcAnnotationOnePointFeature CATIEdit libCATAEC3DAnnotationFeature
+ArcAnnotationOnePointFeature CATIIcon libCATAEC3DAnnotationFeature
+ArcAnnotationOnePointFeature CATI3DGeoVisu libCATAEC3DAnnotationFeature
+ArcAnnotationOnePointFeature CATIFmFeatureBehaviorCustomization libCATAEC3DAnnotationFeature
+ArcAnnotationOnePointFeature CATIReplace libCATAEC3DAnnotationFeature
+
+ArcAnnotationTwoPointFeature CATIArcAnnotationTwoPointFeature libCATAEC3DAnnotationFeature
+ArcAnnotationTwoPointFeature CATINavigateObject	libCATAEC3DAnnotationFeature
+ArcAnnotationTwoPointFeature CATIEdit libCATAEC3DAnnotationFeature
+ArcAnnotationTwoPointFeature CATIIcon libCATAEC3DAnnotationFeature
+ArcAnnotationTwoPointFeature CATI3DGeoVisu libCATAEC3DAnnotationFeature
+ArcAnnotationTwoPointFeature CATIFmFeatureBehaviorCustomization libCATAEC3DAnnotationFeature
+ArcAnnotationTwoPointFeature CATIReplace libCATAEC3DAnnotationFeature
+ 
+ArcAnnotationAngleTwoLineFeature CATIArcAnnotationAngleTwoLineFeature libCATAEC3DAnnotationFeature
+ArcAnnotationAngleTwoLineFeature CATINavigateObject	libCATAEC3DAnnotationFeature
+ArcAnnotationAngleTwoLineFeature CATIEdit libCATAEC3DAnnotationFeature
+ArcAnnotationAngleTwoLineFeature CATIIcon libCATAEC3DAnnotationFeature
+ArcAnnotationAngleTwoLineFeature CATI3DGeoVisu libCATAEC3DAnnotationFeature
+ArcAnnotationAngleTwoLineFeature CATIFmFeatureBehaviorCustomization libCATAEC3DAnnotationFeature
+ArcAnnotationAngleTwoLineFeature CATIReplace libCATAEC3DAnnotationFeature
+ 
+ArcAnnotationRadiusFeature CATIArcAnnotationRadiusFeature libCATAEC3DAnnotationFeature
+ArcAnnotationRadiusFeature CATINavigateObject	libCATAEC3DAnnotationFeature
+ArcAnnotationRadiusFeature CATIEdit libCATAEC3DAnnotationFeature
+ArcAnnotationRadiusFeature CATIIcon libCATAEC3DAnnotationFeature
+ArcAnnotationRadiusFeature CATI3DGeoVisu libCATAEC3DAnnotationFeature
+ArcAnnotationRadiusFeature CATIFmFeatureBehaviorCustomization libCATAEC3DAnnotationFeature
+ArcAnnotationRadiusFeature CATIReplace libCATAEC3DAnnotationFeature
+
+ArcAnnotationAngleThreePointFeature CATIArcAnnotationAngleThreePointFeature libCATAEC3DAnnotationFeature
+ArcAnnotationAngleThreePointFeature CATINavigateObject	libCATAEC3DAnnotationFeature
+ArcAnnotationAngleThreePointFeature CATIEdit libCATAEC3DAnnotationFeature
+ArcAnnotationAngleThreePointFeature CATIIcon libCATAEC3DAnnotationFeature
+ArcAnnotationAngleThreePointFeature CATI3DGeoVisu libCATAEC3DAnnotationFeature
+ArcAnnotationAngleThreePointFeature CATIFmFeatureBehaviorCustomization libCATAEC3DAnnotationFeature
+ArcAnnotationAngleThreePointFeature CATIReplace libCATAEC3DAnnotationFeature
+
+#======================================================================
+#  Jul 2006  ArcAnnotation  KWE
+#======================================================================
+
+ArcAnnotationOnePointFeature	CATICkeFeature libCATAECFeatureImplKwe
+ArcAnnotationOnePointFeature	CATIExposeObject libCATAECFeatureImplKwe
+ArcAnnotationOnePointFeature	CATICkeObject libCATAECFeatureImplKwe
+
+ArcAnnotationTwoPointFeature	CATICkeFeature libCATAECFeatureImplKwe
+ArcAnnotationTwoPointFeature	CATIExposeObject libCATAECFeatureImplKwe
+ArcAnnotationTwoPointFeature	CATICkeObject libCATAECFeatureImplKwe
+
+ArcAnnotationAngleTwoLineFeature	CATICkeFeature libCATAECFeatureImplKwe
+ArcAnnotationAngleTwoLineFeature	CATIExposeObject libCATAECFeatureImplKwe
+ArcAnnotationAngleTwoLineFeature	CATICkeObject libCATAECFeatureImplKwe
+
+ArcAnnotationRadiusFeature	CATICkeFeature libCATAECFeatureImplKwe
+ArcAnnotationRadiusFeature	CATIExposeObject libCATAECFeatureImplKwe
+ArcAnnotationRadiusFeature	CATICkeObject libCATAECFeatureImplKwe
+
+ArcAnnotationAngleThreePointFeature CATICkeFeature libCATAECFeatureImplKwe
+ArcAnnotationAngleThreePointFeature CATIExposeObject libCATAECFeatureImplKwe
+ArcAnnotationAngleThreePointFeature CATICkeObject libCATAECFeatureImplKwe
+
+
+#======================================================================
+#  Jul 2006  DRWPositionFeature 
+#======================================================================
+
+DRWPositionFeature CATIDRWPositionFeature libCATDRWPositionFeature
+DRWPositionFeature CATICkeFeature libCATDRWPositionFeature
+DRWPositionFeature CATIInputDescription libCATDRWPositionFeature
+DRWPositionFeature CATIFmFeatureBehaviorCustomization libCATDRWPositionFeature
+DRWPositionFeature CATIMechanicalProperties libCATDRWPositionFeature
+DRWPositionFeature CATIMf3DBehavior libCATDRWPositionFeature
+DRWPositionFeature CATINavigateFilter libCATDRWPositionFeature
+DRWPositionFeature CATINavigateObject libCATDRWPositionFeature
+DRWPositionFeature CATIParmPublisher libCATDRWPositionFeature
+DRWPositionFeature CATIParmDirectAccess libCATDRWPositionFeature
+DRWPositionFeature CATIReplace libCATDRWPositionFeature
+DRWPositionFeature CATIReplaceUI libCATDRWPositionFeature
+DRWPositionFeature CATIEdit libCATDRWPositionFeature
+DRWPositionFeature CATIIcon libCATDRWPositionFeature
+
+DRWPositionFeature CATICkeFeature libCATAECFeatureImplKwe
+DRWPositionFeature CATIExposeObject libCATAECFeatureImplKwe
+DRWPositionFeature CATICkeObject libCATAECFeatureImplKwe
+
+#======================================================================
+#  Jul 2006  CATAECLifAddLibrary 
+#======================================================================
+
+CATAECLifAddLibrary      CATIAddLibrary      libCATAECFeatureImplKwe
+CATAECLifAddLibrary      CATICreateInstance      libCATAECFeatureImplKwe
+
+#======================================================================
+#  Jul 2006  CATAECArcFactory
+#======================================================================
+CATPrtCont CATIAECArcFactory libCATAECDRWFeatureUseItf
+
+CATPrtCont CATIAECDRWFeatureFactory libCATAECDRWFeatureUseItf
+CATPrtCont CATIAECDRWFeatureFactory libCATAECDRWFeatureUseItf
+ 
+

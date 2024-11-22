@@ -1,0 +1,39 @@
+
+//----------------------------------------------------------------------------
+// 3DPART DESIGN
+//----------------------------------------------------------------------------
+CATAEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.Title     = "Sketch Outputs";
+CATAEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.Help      = "Select sketches to create outputs";
+CATAEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.ShortHelp = "Select sketches to create outputs";
+CATAEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.LongHelp  = "Select sketches to create outputs";
+
+CATAEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.Title = "AEC Object Color";
+CATAEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.ShortHelp = "AEC Object Color";
+CATAEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.Help = "AEC Object Color";
+CATAEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.LongHelp = "AEC Object Color";
+
+CATAEC3DModelingWkbAddinHeader.CATParmAnimationHdr.Title     = "Screenshot Export";
+CATAEC3DModelingWkbAddinHeader.CATParmAnimationHdr.Help      = "Screenshot Export";
+CATAEC3DModelingWkbAddinHeader.CATParmAnimationHdr.ShortHelp = "Select a parameter, set its change interval and change step number, it will export each screenshot.";
+CATAEC3DModelingWkbAddinHeader.CATParmAnimationHdr.LongHelp  = "Select a parameter, set its change interval and change step number, it will export each screenshot.";
+
+CATAEC3DModelingWkbAddinHeader.CATExtractBoundaryHdr.Title        = "Extract Boundary";
+CATAEC3DModelingWkbAddinHeader.CATExtractBoundaryHdr.Help         = "Extract Boundary";
+CATAEC3DModelingWkbAddinHeader.CATExtractBoundaryHdr.ShortHelp    = "Extract Boundary";
+CATAEC3DModelingWkbAddinHeader.CATExtractBoundaryHdr.LongHelp     = "Extract Boundary";
+
+CATAEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.Title = "Create UDF Template";
+CATAEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.ShortHelp = "Create Geometrical Set";
+CATAEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.Help = "Create Geometrical Set";
+CATAEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.LongHelp = "CreateUDFTemplate Command Used to create Geometrical Set";
+
+
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.Title     = "Annotation Drawing";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.Help      = "Annotation Drawing";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.ShortHelp = "Annotation Drawing";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.LongHelp  = "Annotation Drawing";
+
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.Title     = "Layout Drawing";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.Help      = "Layout Drawing";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.ShortHelp = "Layout Drawing";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.LongHelp  = "Layout Drawing";

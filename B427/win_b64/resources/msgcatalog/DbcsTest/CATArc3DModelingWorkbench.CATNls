@@ -1,0 +1,8 @@
+CATArc3DModelingWorkbench.Title = "[十CATArc3DModelingWorkbench,3DModelingWorkbench.Title十一構ソチ－Building 3D Design Extension]";
+CATArc3DModelingWorkbench.Help = "[十CATArc3DModelingWorkbench,c3DModelingWorkbench.Help十一構ソチ－Building 3D Design Extension]";
+CATArc3DModelingWorkbench.ShortHelp = "[十CATArc3DModelingWorkbench,delingWorkbench.ShortHelp十一構ソチ－Building 3D Design Extension]";
+StructureSection.Title = "[十CATArc3DModelingWorkbench,StructureSection.Title十一構ソチ－Structure]";
+CATArc3DModelingWorkbench.LongHelp = "[十CATArc3DModelingWorkbench,odelingWorkbench.LongHelp十一構ソチ－Building 3D Design Extension]";
+DraftingSection.Title = "[十CATArc3DModelingWorkbench,DraftingSection.Title十一構ソチ－Drawing]";
+DataSection.Title = "[十CATArc3DModelingWorkbench,DataSection.Title十一構ソチ－Global Data]";
+GridSection.Title = "[十CATArc3DModelingWorkbench,GridSection.Title十一構ソチ－Grid]";

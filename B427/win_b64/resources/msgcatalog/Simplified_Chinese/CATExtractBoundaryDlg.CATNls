@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+Title = "边界提取定义";
+Label1.Title = "物体: ";
+Label2.Title = "类型: ";
+CheckButton1.Title = "边线";
+CheckButton2.Title = "面";
+
+ExtraclError.Title = "错误";
+ExtraclError.Text = "提取特征信息失败 !";

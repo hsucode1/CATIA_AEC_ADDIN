@@ -1,0 +1,10 @@
+
+CATAEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.Icon.Normal="I_OutputPlane";
+CATAEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.Icon.Normal="I_CATAECGeometricalSetTemp";
+CATAEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.Icon.Normal="I_CATAECObjectColor";
+CATAEC3DModelingWkbAddinHeader.CATParmAnimationHdr.Icon.Normal="I_CATParmAnimation";
+CATAEC3DModelingWkbAddinHeader.CATExtractBoundaryHdr.Icon.Normal="I_CATExtractBoundary";
+
+
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.Icon.Normal="I_DrawingAnnotationView";
+CATAEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.Icon.Normal="I_DrawingLayoutView";

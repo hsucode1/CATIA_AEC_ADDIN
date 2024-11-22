@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+Title = "特征构件框架";
+CheckButtonInput.Title = "输入（几何图形集）";
+CheckButtonGeometricalSet.Title = "几何图形集（纯曲面）";
+CheckButtonOrderedGeometricalSet.Title = "有序几何图形集（含实体）";
+CheckButtonInputConstruction.Title = "构造输入（几何图形集）";

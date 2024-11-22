@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+
+CATAECDrwAnnotationAddinHeader.CATAECDRWRunHdr.Title     = "尺寸创建";
+CATAECDrwAnnotationAddinHeader.CATAECDRWRunHdr.Help      = "尺寸创建";
+CATAECDrwAnnotationAddinHeader.CATAECDRWRunHdr.ShortHelp = "此功能会自动找到所有的标注特征，批量对特征进行标注.";
+CATAECDrwAnnotationAddinHeader.CATAECDRWRunHdr.LongHelp  = "此功能会自动找到所有的标注特征，批量对特征进行标注.";

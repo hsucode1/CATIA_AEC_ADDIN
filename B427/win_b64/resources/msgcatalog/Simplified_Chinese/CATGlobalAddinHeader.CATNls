@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+CATGlobalAddinHeader.CATZbufferHdr.Title     = "Z-缓冲";
+CATGlobalAddinHeader.CATZbufferHdr.Help      = "Z-缓冲";
+CATGlobalAddinHeader.CATZbufferHdr.ShortHelp = "使用z缓冲区深度显示所有元素.";
+CATGlobalAddinHeader.CATZbufferHdr.LongHelp  = "激活z缓冲区，使所有元素激活时隐藏对方 , 所有元素包括线和平面（通常显示在其他元素的前面）在3D场景中以其真实深度显示。当停用时，线和面总是显示在其他元素的前面.";

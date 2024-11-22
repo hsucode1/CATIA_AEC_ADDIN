@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Styles xmlns:syp="http://www.3ds.com/xsd/SYP">
+
+  <!-- ************************************** -->
+  <!--          Commands Headers              -->
+  <!-- ************************************** -->
+
+  <!--AECGrid-->
+  <Template syp:name="AECGrid" Target="CATAfrComponent">
+    <CATCAfrGroup>
+      <CATCommandHeader ID = "CATAECBDGGridHdr" ClassName = "CATAECBDGGridCmd" SharedLibraryName = "CATAECBDGGridUI" ResourceFile = "CATArc3DModelingWorkbenchHeader" Available = "1"/>
+      <CATCommandHeader ID = "CATAECBDGGridFeatureHdr" ClassName = "CATAECBDGGridFeatureCmd" SharedLibraryName = "CATAECBDGGridUI" ResourceFile = "CATArc3DModelingWorkbenchHeader" Available = "1"/>
+    </CATCAfrGroup>
+  </Template>
+
+  <!-- ************************************** -->
+  <!--          Starter Commands              -->
+  <!-- ************************************** -->
+
+  <!-- Sketcher all commands -->
+  <Template syp:name="SketcherGlobalToolbar" Target="CATAfrComponent">
+    <CATCmdContainer Name="SketchContainer">
+      <CATCAfrInclude Template="BrdAlignmentSectionToolbar" />
+    </CATCmdContainer>
+  </Template>
+
+  <!--Sketcher View Section-->
+  <Template syp:name="GridSectionToolbar" Target="CATAfrComponent">
+	  <CATCmdContainer Name = "GridSection">
+		  <CATCmdStarter Name = "CATAECBDGGridHdr" Command = "CATAECBDGGridHdr"/>
+		  <CATCmdStarter Name = "CATAECBDGGridFeatureHdr" Command = "CATAECBDGGridFeatureHdr"/>               
+	  </CATCmdContainer>
+  </Template>
+
+</Styles>
+

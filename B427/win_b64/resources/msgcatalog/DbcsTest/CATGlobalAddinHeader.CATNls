@@ -1,0 +1,4 @@
+CATGlobalAddinHeader.CATZbufferHdr.Title = "[十CATGlobalAddinHeader,eader.CATZbufferHdr.Title十一構ソチ－Z-buffer]";
+CATGlobalAddinHeader.CATZbufferHdr.Help = "[十CATGlobalAddinHeader,Header.CATZbufferHdr.Help十一構ソチ－Z-buffer]";
+CATGlobalAddinHeader.CATZbufferHdr.ShortHelp = "[十CATGlobalAddinHeader,r.CATZbufferHdr.ShortHelp十一構ソチ－Display all elements using Z-buffer depth.]";
+CATGlobalAddinHeader.CATZbufferHdr.LongHelp = "[十CATGlobalAddinHeader,er.CATZbufferHdr.LongHelp十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十一構ソチ－Activates the Z-buffer so that all elements hide each otherWhen activated , all elements including lines and planes( usually displayed in front of other elements ) are displayedat their true depth in the 3D scene . When deactivated linesand planes are always displayed in front of other elements .]";

@@ -1,0 +1,5 @@
+Title = "[十CATAECFeatureTemplateDlg,Title十一構ソチ－AEC Feature Template]";
+CheckButtonInputConstruction.Title = "[十CATAECFeatureTemplateDlg,onInputConstruction.Title十一構ソチ－INPUT CONSTRUCTION]";
+CheckButtonInput.Title = "[十CATAECFeatureTemplateDlg,CheckButtonInput.Title十一構ソチ－INPUT]";
+CheckButtonOrderedGeometricalSet.Title = "[十CATAECFeatureTemplateDlg,deredGeometricalSet.Title十一構ソチ－ORDERED GEOMETRICAL SET]";
+CheckButtonGeometricalSet.Title = "[十CATAECFeatureTemplateDlg,uttonGeometricalSet.Title十一構ソチ－GEOMETRICAL SET]";

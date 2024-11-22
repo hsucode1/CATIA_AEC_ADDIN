@@ -1,0 +1,6 @@
+Title = "[~CATAECObjColorDlg,Title~ Objéct Cølor Defînition]";
+Frame1.Title = "[~CATAECObjColorDlg,Frame1.Title~ Sétüp]";
+Frame1.Label2.Title = "[~CATAECObjColorDlg,Frame1.Label2.Title~ Objéct :]";
+Frame1.Label3.Title = "[~CATAECObjColorDlg,Frame1.Label3.Title~ RGB :]";
+Frame1.Label1.Title = "[~CATAECObjColorDlg,Frame1.Label1.Title~ Séts :]";
+Frame1.PushButton1.Title = "[~CATAECObjColorDlg,Frame1.PushButton1.Title~ Rémøve]";

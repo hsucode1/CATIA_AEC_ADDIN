@@ -1,0 +1,14 @@
+<meta charset="UTF-8"/>
+
+
+// CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.Title     = "轴网";
+// CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.Help      = "创建建筑轴网";
+// CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.ShortHelp = "创建建筑轴网";
+// CATArc3DModelingWorkbenchHeader.CATAECBDGGridHdr.LongHelp  = "创建建筑轴网";
+
+// CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.Title     = "轴网";
+// CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.Help      = "创建建筑轴网";
+// CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.ShortHelp = "创建建筑轴网";
+// CATArc3DModelingWorkbenchHeader.CATAECBDGGridFeatureHdr.LongHelp  = "创建建筑轴网";
+
+
